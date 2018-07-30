@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/toor/code/ApiDemos/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/toor/code/ApiDemos/app/src/main/res/values-v16/bools.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "742",
+                        "endColumns": "45",
+                        "endOffsets": "783"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    }
+                },
+                {
+                    "source": "/home/toor/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/54ea3447d129fc5eaf52cf26f818f8a4/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "101",
+                        "endColumns": "65",
+                        "endOffsets": "162"
+                    }
+                },
+                {
+                    "source": "/home/toor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/345e02fe914406013e962f9ec2e3ece2/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "167",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "335"
+                    }
+                }
+            ]
+        }
+    ]
+}
